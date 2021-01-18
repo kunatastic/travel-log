@@ -4,7 +4,7 @@ A full stack application to store / list places you have traveled.
 
 ### TODO
 
-- [ ] Setup Server
+- [x] Setup Server
   - [x] Install Dependencies
   <!-- - [] Install / Setup Linter -->
   - [x] Setup Express App
